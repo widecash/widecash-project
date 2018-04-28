@@ -1,0 +1,9 @@
+Building WideCash
+
+See doc/readme-qt.rst for instructions on building WideCash QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WideCash.
+
+See doc/build-*.txt for instructions on building widecashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of WideCash.
