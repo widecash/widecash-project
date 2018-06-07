@@ -1,0 +1,16 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+autopoint is already the newest version (0.19.7-2ubuntu3).
+bison is already the newest version (2:3.0.4.dfsg-1).
+flex is already the newest version (2.6.0-11).
+libtool-bin is already the newest version (2.4.6-0.1).
+ruby is already the newest version (1:2.3.0+1).
+gperf is already the newest version (3.0.4-2).
+intltool is already the newest version (0.51.0-2ubuntu1.16.04.1).
+libgtk2.0-dev is already the newest version (2.24.30-1ubuntu1.16.04.2).
+The following packages were automatically installed and are no longer required:
+  libllvm3.8 linux-headers-4.4.0-21 linux-headers-4.4.0-21-generic
+  linux-image-4.4.0-21-generic linux-image-extra-4.4.0-21-generic
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 4 not upgraded.
