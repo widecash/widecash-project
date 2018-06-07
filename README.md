@@ -1,7 +1,15 @@
+Widecash Core integration/staging tree
+===========================
 
-WideCash development tree
+https://widecash.org
 
-WideCash is a PoS-based cryptocurrency.
+What is Widecash?
+===========================
+Widecash is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Widecash uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Widecash Core is the name of open source software which enables the use of this currency.
+
+License
+===========================
+Widecash Core is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
 
 Development process
 ===========================
