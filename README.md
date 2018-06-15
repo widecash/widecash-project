@@ -3,6 +3,8 @@ Widecash Core integration/staging tree
 
 https://widecash.org
 
+git clone -b 1.1.0.0 --single-branch https://github.com/widecash/widecash-project.git
+
 What is Widecash?
 ===========================
 Widecash is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Widecash uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Widecash Core is the name of open source software which enables the use of this currency.
